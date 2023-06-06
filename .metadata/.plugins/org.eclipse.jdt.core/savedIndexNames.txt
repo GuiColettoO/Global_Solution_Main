@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\REI DELAS\Desktop\GS_QuickSaving-master\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1432525914.index
+4140928472.index
